@@ -1,0 +1,14 @@
+{
+  "header": {
+    "logo": "https://www.dastresi.com/images/logo/logo.png",
+    "searchbar": "جستجو محصولات",
+    "about": [
+      "باشگاه مشتریان",
+      "بلاگ",
+      "ارتباط با ما",
+      "درباره ما"
+    ],
+    "shopcart": "fa fa-shopping-cart",
+    "login": "ورود و ثبت نام"
+  }
+}
