@@ -54,9 +54,15 @@
       "text": "برندها"
     }
   ],
-  "Swiper": {
-    "image1": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png",
-    "image2": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png",
-    "image3": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-2-min.png"
-  }
+  "Swiper": [
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png"
+    },
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png"
+    },
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png"
+    }
+  ]
 }
